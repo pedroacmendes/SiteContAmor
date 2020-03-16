@@ -9,7 +9,7 @@ h3{
   text-align: center;
 }
 
-p {
+p, blockquote {
   text-align: justify;
 }
 
@@ -976,11 +976,7 @@ a {
   padding: 20px; }
   .block-testimony-1 blockquote {
     background: #fff;
-    padding: 30px;
-    font-style: italic;
-    font-size: 18px;
-    color: #000;
-    font-family: 'Georgia', Times, serif; }
+    padding: 30px;}
   .block-testimony-1 figure {
     position: relative;
     padding-top: 20px; }
